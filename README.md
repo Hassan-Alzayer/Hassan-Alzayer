@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-alzayer&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-alzayer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hassanzayercs" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hassanzayercs?logo=twitter&style=for-the-badge" alt="https://twitter.com/hassanzayercs" /></a> </p>
+- 🔭 I’m currently working on **LazyWait**
 
 - 📫 How to reach me **eng.halzayer@gmail.com**
+
+- 🌱 I’m currently learning **Web Development and mobile Development**
+
+- 💬 Ask me about anything , **I will help you if I can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
