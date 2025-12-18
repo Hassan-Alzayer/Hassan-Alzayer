@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan-alzayer&label=Profile%20views&color=0e75b6&style=flat" alt="hassan-alzayer" /> </p>
 
-- 🔭 I’m currently working on **LazyWait**
-
 - 📫 How to reach me **eng.halzayer@gmail.com**
 
 - 🌱 I’m currently learning **Web Development and mobile Development**
